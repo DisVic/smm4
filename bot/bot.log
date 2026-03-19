@@ -1,0 +1,122 @@
+2026-03-19 22:51:28,097 - database - INFO - База данных инициализирована
+2026-03-19 22:51:28,103 - __main__ - INFO - Запуск бота...
+2026-03-19 22:51:31,134 - aiogram.dispatcher - INFO - Start polling
+2026-03-19 22:51:31,199 - aiogram.dispatcher - INFO - Run polling for bot @terra_danza_sup_bot id=8619699374 - 'Terra_Danza_Sup'
+2026-03-19 22:52:04,183 - database - INFO - Пользователь 1394373060 добавлен/обновлён
+2026-03-19 22:52:04,203 - __main__ - INFO - Пользователь 1394373060 (D1sappearedV1ctory) запустил бота
+2026-03-19 22:52:04,630 - aiogram.event - INFO - Update id=320646326 is handled. Duration 476 ms by bot id=8619699374
+2026-03-19 22:53:08,448 - aiogram.event - INFO - Update id=320646327 is handled. Duration 228 ms by bot id=8619699374
+2026-03-19 22:53:15,167 - aiogram.event - INFO - Update id=320646328 is handled. Duration 179 ms by bot id=8619699374
+2026-03-19 22:53:19,664 - aiogram.event - INFO - Update id=320646329 is handled. Duration 165 ms by bot id=8619699374
+2026-03-19 22:53:22,863 - __main__ - INFO - Пользователь 1394373060 запросил связь с командой
+2026-03-19 22:53:23,020 - aiogram.event - INFO - Update id=320646330 is handled. Duration 376 ms by bot id=8619699374
+2026-03-19 22:53:31,500 - aiogram.event - INFO - Update id=320646331 is handled. Duration 457 ms by bot id=8619699374
+2026-03-19 22:54:41,484 - database - INFO - Пользователь 296467161 добавлен/обновлён
+2026-03-19 22:54:41,509 - __main__ - INFO - Пользователь 296467161 (Hiyff765) запустил бота
+2026-03-19 22:54:41,696 - aiogram.event - INFO - Update id=320646332 is handled. Duration 305 ms by bot id=8619699374
+2026-03-19 22:54:46,499 - aiogram.event - INFO - Update id=320646333 is handled. Duration 190 ms by bot id=8619699374
+2026-03-19 22:54:55,501 - aiogram.event - INFO - Update id=320646334 is handled. Duration 146 ms by bot id=8619699374
+2026-03-19 22:54:56,600 - aiogram.event - INFO - Update id=320646335 is handled. Duration 249 ms by bot id=8619699374
+2026-03-19 22:54:58,661 - aiogram.event - INFO - Update id=320646336 is handled. Duration 372 ms by bot id=8619699374
+2026-03-19 22:55:01,564 - aiogram.event - INFO - Update id=320646337 is handled. Duration 140 ms by bot id=8619699374
+2026-03-19 22:55:02,752 - aiogram.event - INFO - Update id=320646338 is handled. Duration 163 ms by bot id=8619699374
+2026-03-19 22:55:04,701 - aiogram.event - INFO - Update id=320646339 is handled. Duration 352 ms by bot id=8619699374
+2026-03-19 22:55:06,504 - aiogram.event - INFO - Update id=320646340 is handled. Duration 144 ms by bot id=8619699374
+2026-03-19 22:55:06,703 - __main__ - INFO - Пользователь 1394373060 начал заполнение заявки
+2026-03-19 22:55:06,861 - aiogram.event - INFO - Update id=320646341 is handled. Duration 185 ms by bot id=8619699374
+2026-03-19 22:55:10,894 - aiogram.event - INFO - Update id=320646342 is handled. Duration 183 ms by bot id=8619699374
+2026-03-19 22:55:11,499 - aiogram.event - INFO - Update id=320646343 is handled. Duration 147 ms by bot id=8619699374
+2026-03-19 22:55:14,247 - aiogram.event - INFO - Update id=320646344 is handled. Duration 190 ms by bot id=8619699374
+2026-03-19 22:55:15,883 - aiogram.event - INFO - Update id=320646345 is handled. Duration 290 ms by bot id=8619699374
+2026-03-19 22:55:16,905 - aiogram.event - INFO - Update id=320646346 is handled. Duration 191 ms by bot id=8619699374
+2026-03-19 22:55:18,056 - __main__ - INFO - Пользователь 1394373060 начал заполнение заявки
+2026-03-19 22:55:18,205 - aiogram.event - INFO - Update id=320646347 is handled. Duration 179 ms by bot id=8619699374
+2026-03-19 22:55:18,820 - aiogram.event - INFO - Update id=320646348 is handled. Duration 144 ms by bot id=8619699374
+2026-03-19 22:55:23,837 - aiogram.event - INFO - Update id=320646349 is handled. Duration 181 ms by bot id=8619699374
+2026-03-19 22:55:28,259 - aiogram.event - INFO - Update id=320646350 is handled. Duration 172 ms by bot id=8619699374
+2026-03-19 22:55:29,766 - aiogram.event - INFO - Update id=320646351 is handled. Duration 141 ms by bot id=8619699374
+2026-03-19 22:55:31,310 - aiogram.event - INFO - Update id=320646352 is handled. Duration 149 ms by bot id=8619699374
+2026-03-19 22:55:33,199 - aiogram.event - INFO - Update id=320646353 is handled. Duration 154 ms by bot id=8619699374
+2026-03-19 22:55:37,305 - aiogram.event - INFO - Update id=320646354 is handled. Duration 642 ms by bot id=8619699374
+2026-03-19 22:55:42,592 - aiogram.event - INFO - Update id=320646355 is handled. Duration 247 ms by bot id=8619699374
+2026-03-19 22:55:55,042 - database - INFO - Анкета для 1394373060 сохранена
+2026-03-19 22:55:55,132 - __main__ - INFO - Заявка от 1394373060 сохранена: {'name': 'Артём', 'company': 'любитель', 'service': 'Народные танцы', 'budget': 'Россия и СНГ', 'contact': 'mail@mail.ru'}
+2026-03-19 22:55:55,389 - aiogram.event - INFO - Update id=320646356 is handled. Duration 410 ms by bot id=8619699374
+2026-03-19 23:00:52,225 - aiogram.event - INFO - Update id=320646357 is handled. Duration 140 ms by bot id=8619699374
+2026-03-19 23:00:54,228 - __main__ - INFO - Пользователь 296467161 начал заполнение заявки
+2026-03-19 23:00:54,390 - aiogram.event - INFO - Update id=320646358 is handled. Duration 256 ms by bot id=8619699374
+2026-03-19 23:00:58,556 - aiogram.event - INFO - Update id=320646359 is handled. Duration 336 ms by bot id=8619699374
+2026-03-19 23:01:17,376 - aiogram.event - INFO - Update id=320646360 is handled. Duration 336 ms by bot id=8619699374
+2026-03-19 23:01:22,004 - aiogram.event - INFO - Update id=320646361 is handled. Duration 325 ms by bot id=8619699374
+2026-03-19 23:01:25,801 - aiogram.event - INFO - Update id=320646362 is handled. Duration 231 ms by bot id=8619699374
+2026-03-19 23:01:36,878 - aiogram.event - INFO - Update id=320646363 is handled. Duration 80 ms by bot id=8619699374
+2026-03-19 23:02:06,935 - database - INFO - Анкета для 296467161 сохранена
+2026-03-19 23:02:06,957 - __main__ - INFO - Заявка от 296467161 сохранена: {'name': 'Кекит', 'company': 'Кто я?', 'service': 'Сотрудничество', 'budget': 'Все регионы', 'contact': 'pamagite@mne.pozhaluista'}
+2026-03-19 23:02:07,132 - aiogram.event - INFO - Update id=320646364 is handled. Duration 252 ms by bot id=8619699374
+2026-03-19 23:02:10,102 - __main__ - INFO - Пользователь 296467161 запросил связь с командой
+2026-03-19 23:02:10,249 - aiogram.event - INFO - Update id=320646365 is handled. Duration 299 ms by bot id=8619699374
+2026-03-19 23:02:17,619 - aiogram.event - INFO - Update id=320646366 is handled. Duration 256 ms by bot id=8619699374
+2026-03-19 23:02:22,534 - aiogram.event - INFO - Update id=320646367 is handled. Duration 128 ms by bot id=8619699374
+2026-03-19 23:15:41,921 - database - INFO - Пользователь 936956017 добавлен/обновлён
+2026-03-19 23:15:41,955 - __main__ - INFO - Пользователь 936956017 (ooooosaaaaaa) запустил бота
+2026-03-19 23:15:42,327 - aiogram.event - INFO - Update id=320646368 is handled. Duration 482 ms by bot id=8619699374
+2026-03-19 23:16:16,214 - aiogram.event - INFO - Update id=320646369 is handled. Duration 253 ms by bot id=8619699374
+2026-03-19 23:16:30,590 - aiogram.event - INFO - Update id=320646370 is handled. Duration 305 ms by bot id=8619699374
+2026-03-19 23:16:34,797 - aiogram.event - INFO - Update id=320646371 is handled. Duration 215 ms by bot id=8619699374
+2026-03-19 23:16:38,439 - aiogram.event - INFO - Update id=320646372 is handled. Duration 273 ms by bot id=8619699374
+2026-03-19 23:16:44,551 - aiogram.event - INFO - Update id=320646373 is handled. Duration 138 ms by bot id=8619699374
+2026-03-19 23:16:45,911 - aiogram.event - INFO - Update id=320646374 is handled. Duration 269 ms by bot id=8619699374
+2026-03-19 23:16:47,329 - aiogram.event - INFO - Update id=320646375 is handled. Duration 251 ms by bot id=8619699374
+2026-03-19 23:16:51,430 - aiogram.event - INFO - Update id=320646376 is handled. Duration 158 ms by bot id=8619699374
+2026-03-19 23:16:52,749 - aiogram.event - INFO - Update id=320646377 is handled. Duration 144 ms by bot id=8619699374
+2026-03-19 23:16:54,068 - aiogram.event - INFO - Update id=320646378 is handled. Duration 204 ms by bot id=8619699374
+2026-03-19 23:16:57,798 - aiogram.event - INFO - Update id=320646379 is handled. Duration 441 ms by bot id=8619699374
+2026-03-19 23:16:58,810 - aiogram.event - INFO - Update id=320646380 is handled. Duration 161 ms by bot id=8619699374
+2026-03-19 23:17:00,247 - aiogram.event - INFO - Update id=320646381 is handled. Duration 314 ms by bot id=8619699374
+2026-03-19 23:17:03,221 - aiogram.event - INFO - Update id=320646382 is handled. Duration 165 ms by bot id=8619699374
+2026-03-19 23:17:04,666 - aiogram.event - INFO - Update id=320646383 is handled. Duration 243 ms by bot id=8619699374
+2026-03-19 23:17:06,514 - aiogram.event - INFO - Update id=320646384 is handled. Duration 186 ms by bot id=8619699374
+2026-03-19 23:17:08,680 - aiogram.event - INFO - Update id=320646385 is handled. Duration 390 ms by bot id=8619699374
+2026-03-19 23:17:10,633 - aiogram.event - INFO - Update id=320646386 is handled. Duration 413 ms by bot id=8619699374
+2026-03-19 23:17:14,211 - aiogram.event - INFO - Update id=320646387 is handled. Duration 299 ms by bot id=8619699374
+2026-03-19 23:17:15,222 - aiogram.event - INFO - Update id=320646388 is handled. Duration 178 ms by bot id=8619699374
+2026-03-19 23:17:18,982 - aiogram.event - INFO - Update id=320646389 is handled. Duration 255 ms by bot id=8619699374
+2026-03-19 23:17:22,350 - aiogram.event - INFO - Update id=320646390 is handled. Duration 150 ms by bot id=8619699374
+2026-03-19 23:17:23,522 - aiogram.event - INFO - Update id=320646391 is handled. Duration 196 ms by bot id=8619699374
+2026-03-19 23:17:24,606 - aiogram.event - INFO - Update id=320646392 is handled. Duration 151 ms by bot id=8619699374
+2026-03-19 23:17:25,736 - aiogram.event - INFO - Update id=320646393 is handled. Duration 247 ms by bot id=8619699374
+2026-03-19 23:17:27,592 - aiogram.event - INFO - Update id=320646394 is handled. Duration 184 ms by bot id=8619699374
+2026-03-19 23:17:30,757 - aiogram.event - INFO - Update id=320646395 is handled. Duration 142 ms by bot id=8619699374
+2026-03-19 23:17:32,087 - aiogram.event - INFO - Update id=320646396 is handled. Duration 165 ms by bot id=8619699374
+2026-03-19 23:17:33,126 - aiogram.event - INFO - Update id=320646397 is handled. Duration 172 ms by bot id=8619699374
+2026-03-19 23:17:38,636 - aiogram.event - INFO - Update id=320646398 is handled. Duration 151 ms by bot id=8619699374
+2026-03-19 23:17:40,771 - aiogram.event - INFO - Update id=320646399 is handled. Duration 335 ms by bot id=8619699374
+2026-03-19 23:17:42,342 - aiogram.event - INFO - Update id=320646400 is handled. Duration 855 ms by bot id=8619699374
+2026-03-19 23:17:44,668 - aiogram.event - INFO - Update id=320646401 is handled. Duration 238 ms by bot id=8619699374
+2026-03-19 23:17:45,953 - aiogram.event - INFO - Update id=320646402 is handled. Duration 343 ms by bot id=8619699374
+2026-03-19 23:17:47,468 - aiogram.event - INFO - Update id=320646403 is handled. Duration 284 ms by bot id=8619699374
+2026-03-19 23:17:55,843 - aiogram.event - INFO - Update id=320646404 is handled. Duration 155 ms by bot id=8619699374
+2026-03-19 23:17:58,601 - __main__ - INFO - Пользователь 936956017 начал заполнение заявки
+2026-03-19 23:17:58,754 - aiogram.event - INFO - Update id=320646405 is handled. Duration 225 ms by bot id=8619699374
+2026-03-19 23:18:12,127 - aiogram.event - INFO - Update id=320646406 is handled. Duration 158 ms by bot id=8619699374
+2026-03-19 23:18:18,396 - aiogram.event - INFO - Update id=320646407 is handled. Duration 165 ms by bot id=8619699374
+2026-03-19 23:18:25,059 - aiogram.event - INFO - Update id=320646408 is handled. Duration 280 ms by bot id=8619699374
+2026-03-19 23:18:31,318 - aiogram.event - INFO - Update id=320646409 is handled. Duration 269 ms by bot id=8619699374
+2026-03-19 23:18:38,717 - aiogram.event - INFO - Update id=320646410 is handled. Duration 229 ms by bot id=8619699374
+2026-03-19 23:18:44,526 - __main__ - INFO - Пользователь 936956017 начал заполнение заявки
+2026-03-19 23:18:44,665 - aiogram.event - INFO - Update id=320646411 is handled. Duration 177 ms by bot id=8619699374
+2026-03-19 23:18:50,527 - aiogram.event - INFO - Update id=320646412 is handled. Duration 127 ms by bot id=8619699374
+2026-03-19 23:18:54,044 - aiogram.event - INFO - Update id=320646413 is handled. Duration 154 ms by bot id=8619699374
+2026-03-19 23:19:03,755 - aiogram.event - INFO - Update id=320646414 is handled. Duration 277 ms by bot id=8619699374
+2026-03-19 23:19:08,295 - aiogram.event - INFO - Update id=320646415 is handled. Duration 223 ms by bot id=8619699374
+2026-03-19 23:19:25,976 - database - INFO - Анкета для 936956017 сохранена
+2026-03-19 23:19:26,013 - __main__ - INFO - Заявка от 936956017 сохранена: {'name': 'Ольга', 'company': 'танцор', 'service': 'Сотрудничество', 'budget': 'Россия и СНГ', 'contact': '8999999999'}
+2026-03-19 23:19:26,182 - aiogram.event - INFO - Update id=320646416 is handled. Duration 283 ms by bot id=8619699374
+2026-03-19 23:19:31,212 - __main__ - INFO - Пользователь 936956017 запросил связь с командой
+2026-03-19 23:19:31,504 - aiogram.event - INFO - Update id=320646417 is handled. Duration 484 ms by bot id=8619699374
+2026-03-19 23:19:38,834 - aiogram.event - INFO - Update id=320646418 is handled. Duration 418 ms by bot id=8619699374
+2026-03-19 23:23:33,027 - aiogram.dispatcher - INFO - Polling stopped
+2026-03-19 23:23:33,031 - aiogram.dispatcher - ERROR - Failed to fetch updates - TelegramNetworkError: HTTP Client says - ServerDisconnectedError: Server disconnected
+2026-03-19 23:23:33,032 - aiogram.dispatcher - WARNING - Sleep for 1.000000 seconds and try again... (tryings = 0, bot id = 8619699374)
+2026-03-19 23:23:33,290 - aiogram.dispatcher - INFO - Polling stopped for bot @terra_danza_sup_bot id=8619699374 - 'Terra_Danza_Sup'
+2026-03-19 23:23:33,292 - __main__ - INFO - Бот остановлен пользователем
