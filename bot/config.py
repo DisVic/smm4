@@ -1,10 +1,10 @@
 # Конфигурация бота Terra Danza
 
 # Токен бота Telegram
-BOT_TOKEN = "8619699374:AAHkeGPwKySHnZUyrY4uXTCVGd9ld6LshnU"
+BOT_TOKEN = "токен бота в ТГ"
 
 # ID администратора для уведомлений
-ADMIN_ID = 1394373060
+ADMIN_ID = ID администратора
 
 # Путь к базе данных
 DATABASE_PATH = "bot_database.db"
